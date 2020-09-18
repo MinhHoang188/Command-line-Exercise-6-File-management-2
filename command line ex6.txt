@@ -1,0 +1,38 @@
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line (master)
+$ cd school
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school (master)
+$ cd tools
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school/tools (master)
+$ mv cmnd-line.txt command-line.txt
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school/tools (master)
+$ cd ../CS2/
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school/CS2 (master)
+$ mv java.txt ../CS1/
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school/CS2 (master)
+$ ls
+lecture2.txt
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school/CS2 (master)
+$ cd ../CS1/
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school/CS1 (master)
+$ mv java.txt intro.txt
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school/CS1 (master)
+$ mv lecture1.txt ../CS2
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school/CS1 (master)
+$ ls
+intro.txt
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school/CS1 (master)
+$ cd ../CS2/
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/school/CS2 (master)
+$ ls
+lecture1.txt  lecture2.txt
